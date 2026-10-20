@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/klen/muffin-redis/commit/423bfc31bf4aa59528dd5cb9c324f7669b276069",
       "git:hexsha": "423bfc31bf4aa59528dd5cb9c324f7669b276069",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "4.0.2"
     },
     {
