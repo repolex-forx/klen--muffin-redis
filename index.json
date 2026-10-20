@@ -1,0 +1,11 @@
+{
+  "org": "klen",
+  "repo": "muffin-redis",
+  "versions": [
+    {
+      "commit": "423bfc31bf4aa59528dd5cb9c324f7669b276069",
+      "tag": "4.0.2",
+      "parsed_at": "2026-10-20T22:12:23.814789+00:00"
+    }
+  ]
+}
